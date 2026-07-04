@@ -3,9 +3,26 @@ const resetBtn = document.getElementById('resetBtn');
 const resultDisplay = document.getElementById('result');
 
 const swimmers = [
-    { element: document.getElementById('swimmer1'), name: 'កីឡាករ អាត់', pos: 40 },
-    { element: document.getElementById('swimmer2'), name: 'កីឡាករ ប៊ី', pos: 40 },
-    { element: document.getElementById('swimmer3'), name: 'កីឡាករ ស៊ី', pos: 40 }
+    { element: document.getElementById('swimmer1'), name: 'កីឡាករ N/A', pos: 40 },
+    { element: document.getElementById('swimmer2'), name: 'កីឡាករ N/A', pos: 40 },
+    { element: document.getElementById('swimmer1'), name: 'កីឡាករ N/A', pos: 40 },
+    { element: document.getElementById('swimmer2'), name: 'កីឡាករ N/A', pos: 40 },
+    { element: document.getElementById('swimmer3'), name: 'កីឡាករ N/A', pos: 40 },
+    { element: document.getElementById('swimmer1'), name: 'កីឡាករ N/A', pos: 40 },
+    { element: document.getElementById('swimmer2'), name: 'កីឡាករ N/A', pos: 40 },
+    { element: document.getElementById('swimmer3'), name: 'កីឡាករ N/A', pos: 40 },
+    { element: document.getElementById('swimmer1'), name: 'កីឡាករ N/A', pos: 40 },
+    { element: document.getElementById('swimmer2'), name: 'កីឡាករ N/A', pos: 40 },
+    { element: document.getElementById('swimmer3'), name: 'កីឡាករ N/A', pos: 40 },
+    { element: document.getElementById('swimmer1'), name: 'កីឡាករ N/A', pos: 40 },
+    { element: document.getElementById('swimmer2'), name: 'កីឡាករ N/A', pos: 40 },
+    { element: document.getElementById('swimmer3'), name: 'កីឡាករ N/A', pos: 40 },
+    { element: document.getElementById('swimmer1'), name: 'កីឡាករ N/A', pos: 40 },
+    { element: document.getElementById('swimmer2'), name: 'កីឡាករ N/A', pos: 40 },
+    { element: document.getElementById('swimmer3'), name: 'កីឡាករ N/A', pos: 40 },
+    { element: document.getElementById('swimmer1'), name: 'កីឡាករ N/A', pos: 40 },
+    { element: document.getElementById('swimmer2'), name: 'កីឡាករ N/A', pos: 40 },
+    { element: document.getElementById('swimmer3'), name: 'កីឡាករ N/A', pos: 40 }
 ];
 
 let raceInterval;
