@@ -1,4 +1,4 @@
-const startBtn = document.getElementById('startBtn');
+គីមការនី startBtn = document.getElementById('startBtn');
 const resetBtn = document.getElementById('resetBtn');
 const resultDisplay = document.getElementById('result');
 
@@ -10,7 +10,7 @@ const swimmers = [
     { element: document.getElementById('swimmer5'), name: 'កីឡាករ N/A', pos: 40 },
     { element: document.getElementById('swimmer6'), name: 'កីឡាករ N/A', pos: 40 },
     { element: document.getElementById('swimmer7'), name: 'កីឡាករ ម៉ែន (Mr. Men)', pos: 40},
-    { element: document.getElementById('swimmer8'), name: 'កីឡាការនី គីម មួយ (Mrs. Kim Muy)', pos: 40 },
+    { element: document.getElementById('swimmer8'), name: 'កីឡាការិនី គីម មួយ (Mrs. Kim Muy)', pos: 40 },
     { element: document.getElementById('swimmer9'), name: 'កីឡាករ សេង ឆាត (Mr. Seng Chat)', pos: 40 },
     { element: document.getElementById('swimmer10'), name: 'កីឡាករ ហួកាំង ថារ៉ា (Mr. Huokaing Thara)', pos: 40 },
     { element: document.getElementById('swimmer11'), name: 'កីឡាករ N/A', pos: 40 },
