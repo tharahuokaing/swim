@@ -1,4 +1,4 @@
-គីមការនី startBtn = document.getElementById('startBtn');
+const startBtn = document.getElementById('startBtn');
 const resetBtn = document.getElementById('resetBtn');
 const resultDisplay = document.getElementById('result');
 
